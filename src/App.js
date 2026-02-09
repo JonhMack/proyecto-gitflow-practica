@@ -2,6 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  // Se agrego el cambio sugerido:
+  console.log("Feature websocket en desarrollo"); 
+
   return (
     <div className="App">
       <header className="App-header">
